@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,PYTHON,PLACEMENT PREP**
 
-- 👨‍💻 All of my projects are available at [github.com/udaykarthik4245](github.com/udaykarthik4245)
+- 👨‍💻 All of my projects are available at [github.com/udaykarthik4245]([github.com/udaykarthik4245](https://github.com/udaykarthik4245?tab=repositories))
 
 - 📫 How to reach me **udaykarthik58@gmail.com**
 
